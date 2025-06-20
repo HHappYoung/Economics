@@ -106,7 +106,7 @@ $$
 C A=S-\tilde{I},
 $$
 
-where $S$ denotes the national saving which is the sum of private sector saving $\left(S^{P r v}\right)$ and public sector saving $\left(S^G\right)$. $\tilde{I}$ denotes the national investment which is the sum of private investment $(I)$ and public investment $\left(G^{I}\right)$. $S-\tilde{I}$ represents net foreign investment (NFI, also called net capital outflow, NCO). For a closed economy, identity (2) implies $S=\tilde{I}$, that is, domestic saving is always equal to domestic investment.
+where $S$ denotes the national saving which is the sum of private sector saving $\left(S^{P r v}\right)$ and public sector saving $\left(S^G\right)$. $\tilde{I}$ denotes the national investment which is the sum of private investment $(I)$ and public investment $\left(G^{I}\right)$. $S-\tilde{I}$ represents ==net foreign investment (NFI==, also called net capital outflow, NCO). For a closed economy, identity (2) implies $S=\tilde{I}$, that is, domestic saving is always equal to domestic investment.
 ${ }^1 S^{P r v}=$ Private disposable income $\left(Y^d\right)-$ Private consumption $(C) . Y^d$ is the income of the private sector available to spend: $Y^d \triangleq G N P-\left(T-T R-I N T^G\right)$ where $T R$ the government transfer payments, $I N T^G$ the net interest payments from government, $T$ the tax revenue. $Y^d$ comprises disposable income of both households and businesses (ie., the private sector). If we assume $N F P=0, T R=0$, and $I N T^G=0$, then $Y^d=Y-T$.
 
 - 经常账户余额（CA）是一个国家的总收入（GNP）与国内总支出之间的差额，

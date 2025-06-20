@@ -15,6 +15,10 @@
 *.npy  
 *.parquet  
 *.pkl
+*.zip
+*.dta
+*.xlsx
+*.xls
 data/
 
 # Ignore media files
